@@ -29,3 +29,6 @@ chmod +x crack.sh
 - `cracked_hashes.txt` — output from Hashcat
 - `crack.sh` — automation script
 - `README.md` — this file
+---
+
+> Made with ❤️ by [Yug](https://github.com/itzyug444)
