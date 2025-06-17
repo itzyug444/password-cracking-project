@@ -1,3 +1,8 @@
+![Shell Script](https://img.shields.io/badge/script-shell-blue.svg)
+![Hashcat](https://img.shields.io/badge/tool-hashcat-red.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Status: Working](https://img.shields.io/badge/status-working-brightgreen.svg)
+
 # 🔐 Password Cracking Project
 
 This project demonstrates how to crack password hashes using **Hashcat** and **John the Ripper**.
